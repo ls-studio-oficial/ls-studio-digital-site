@@ -1,0 +1,1 @@
+const btn=document.querySelector('.menu-btn'),nav=document.querySelector('.navigation');btn.addEventListener('click',()=>{const open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',String(open));btn.setAttribute('aria-label',open?'Fechar menu':'Abrir menu')});document.getElementById('year').textContent=new Date().getFullYear();

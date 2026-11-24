@@ -1,0 +1,11 @@
+LS STUDIO DIGITAL — SITE OFICIAL (5 PÁGINAS)
+
+Arquivos: index.html, servicos.html, portfolio.html, sobre.html, contato.html, style.css, script.js, assets/logo-oficial.png e assets/montanhas-lago.png.
+
+1. Extraia o ZIP.
+2. Abra index.html no navegador para testar.
+3. No GitHub, envie todos os arquivos e a pasta assets para a raiz do repositório, mantendo seus nomes.
+4. Se a Vercel estiver conectada ao repositório, ela publicará após o commit.
+5. Não é necessário configurar framework ou build.
+6. Os projetos no portfólio são exemplos conceituais, não trabalhos de clientes.
+7. Produção musical e criação de sites estão sinalizadas como em desenvolvimento.
